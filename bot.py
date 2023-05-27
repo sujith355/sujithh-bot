@@ -83,4 +83,4 @@ async def joke(ctx):
     await ctx.send(f"**Joke:** {setup}\n**Punchline:** {punchline}")
 
 # Run the bot
-bot.run('MTExMTUyNDE1MjkxOTIwMzg5MQ.GBphfX.r0GMZ_M18cGTX7vbngII7NNjU5LtivFRxX4wBo')
+bot.run('MTExMTUyNDE1MjkxOTIwMzg5MQ.GVcFlA.4GZUXoPkyE-QY54OBeqjnhfUFbZ7B7tWC8SrU4')
